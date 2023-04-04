@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### **Welcome to My GitHub Profile**👋
+# **Welcome to My GitHub Profile**👋
 I am a dedicated Android Developer who is passionate about creating high-quality applications that provide value to end-users. I am constantly learning new technologies and expanding my skillset, and I am currently focusing on developing React Native applications. I am interested in collaborating on exciting projects that challenge me and allow me to apply my skills to create innovative solutions.
 
 ## **Technical Skills**🔭
@@ -36,6 +36,6 @@ I am always open to collaboration opportunities and would love to work on exciti
 ## **Contact**📫
 If you would like to get in touch with me, you can reach me at:
 
-Email: example@gmail.com
-LinkedIn: https://www.linkedin.com/in/example/
+Email: tushar.sharma7363@gmail.com <br />
+LinkedIn: https://www.linkedin.com/in/tushar-sharma-62b22a1a9/ <br />
 Thank you for visiting my profile!
