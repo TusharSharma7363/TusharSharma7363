@@ -14,6 +14,11 @@ Here are some ideas to get you started:
 -->
 
 # **Welcome to My GitHub Profile**👋
+
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://i.ibb.co/5LTYVv2/pexels-andreea-ch-1166644.jpg">
+</picture>
+
 I am a dedicated Android Developer who is passionate about creating high-quality applications that provide value to end-users. I am constantly learning new technologies and expanding my skillset, and I am currently focusing on developing React Native applications. I am interested in collaborating on exciting projects that challenge me and allow me to apply my skills to create innovative solutions.
 
 ## **Technical Skills**🔭
